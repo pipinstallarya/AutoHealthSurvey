@@ -7,7 +7,6 @@ answers:
      value: 'Arya Shah'
 
   - handler: radio
-    options:
       value:'Employee'
 
   - handler: radio
