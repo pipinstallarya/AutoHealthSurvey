@@ -2,16 +2,26 @@ version: 1
 
 url: https://forms.office.com/Pages/ResponsePage.aspx?id=XYP-cpVeEkWK4KezivJfyMh6mdFa-OFBkHsyBFa3fSVUODFSWUZGUU1TSzFGWVFFOE1MSjI1NkhOViQlQCN0PWcu
 answers:
-  - generator: random
+  - generator: constant
     options:
-      min: 35
-      max: 36
-      decimal: 1
+     value: 'Arya Shah'
 
   - generator: constant
     options:
-      value: 'ない'
+      value:'Employee'
 
   - generator: constant
     options:
-      value: '登校しない'
+      value: 'Yes'
+      
+  - generator: constant
+    options:
+      value: 'No'
+      
+  - generator: constant
+    options:
+      value: 'No'
+      
+  - generator: constant
+    options:
+      value: 'Yes, Shown to Security'
