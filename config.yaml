@@ -6,21 +6,3 @@ answers:
     options:
      value: 'Arya Shah'
 
-  - handler: radio
-      value:'Employee'
-
-  - handler: radio
-    options:
-      value: 'Yes'
-      
-  - handler: radio
-    options:
-      value: 'No'
-      
-  - handler: radio
-    options:
-      value: 'No'
-      
-  - handler: radio
-    options:
-      value: 'Yes, Shown to Security'
