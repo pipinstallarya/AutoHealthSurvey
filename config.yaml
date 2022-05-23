@@ -6,22 +6,22 @@ answers:
     options:
      value: 'Arya Shah'
 
-  - generator: constant
+  - handler: radio
     options:
       value:'Employee'
 
-  - generator: constant
+  - handler: radio
     options:
       value: 'Yes'
       
-  - generator: constant
+  - handler: radio
     options:
       value: 'No'
       
-  - generator: constant
+  - handler: radio
     options:
       value: 'No'
       
-  - generator: constant
+  - handler: radio
     options:
       value: 'Yes, Shown to Security'
